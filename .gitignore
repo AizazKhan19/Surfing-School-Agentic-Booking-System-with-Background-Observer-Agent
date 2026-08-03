@@ -1,0 +1,12 @@
+# Files/folders present in this repository (kept minimal per request)
+# Environment variables
+.env
+
+# Virtual environment directory
+venv/
+
+# Compiled Python bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+
