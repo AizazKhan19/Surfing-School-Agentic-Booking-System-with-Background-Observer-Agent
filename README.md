@@ -1,4 +1,4 @@
-# Livekit Agents
+# Multi-Agent Surfing School Booking System with Background Observer Agent
 
 Lightweight Python project providing several conversational agent modules (intake, billing, frontdesk, scheduler, observer, gear) and supporting prompts, tasks, and tools.
 
